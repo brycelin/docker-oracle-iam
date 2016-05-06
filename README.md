@@ -1,6 +1,6 @@
 # Docker Images from Oracle
 
-This repository stores Docker images for Oracle products.
+This repository stores Docker images for Oracle IAM products.
 
 Oracle Linux images can be found in the [`OracleLinux-images`](https://github.com/oracle/docker/tree/OracleLinux-images) branch of this repository.
 
